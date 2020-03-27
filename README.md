@@ -1,2 +1,2 @@
-# CoronaVirus-Dasgboard-Bangladesh
+# CoronaVirus_Cases
 <img src = "Rplot.png">
