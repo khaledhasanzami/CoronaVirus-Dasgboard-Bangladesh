@@ -1,2 +1,2 @@
 # CoronaVirus-Dasgboard-Bangladesh
-plot.png
+<img src = "plot.png">
